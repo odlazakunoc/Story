@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaa tek dada
+=======
+dsadasdsadadasdsada
+>>>>>>> 2e3ad96c5fcf0628c00913ed558e141f4f09f96c
